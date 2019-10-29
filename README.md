@@ -7,6 +7,7 @@ For example:
 ![alt_text](https://github.com/MaxVoloskiy/CV_Assignment2/blob/master/img/example1.jpg)
 
 ### Challenges
+Our model can encounter with some difficulties, because it has to learn how to find all endges and make a right conclusion. We should do some manipulations with the image like convolution and pooling to classify pixels. And also to get back to our initial resolution we have to do some unsampling techniques like interpolation, transposed convolution etc. 
 
 ### Model description
 
